@@ -10,7 +10,7 @@ def readfile(filename):
 
 setuptools.setup(
     name="greenlet",
-    version='0.4.11',
+    version='0.4.15',
     description='Lightweight in-process concurrent programming',
     long_description=readfile("usr/share/doc/python-greenlet/README.rst"),
     maintainer="Alexey Borzenkov",
